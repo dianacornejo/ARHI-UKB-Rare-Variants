@@ -1,6 +1,6 @@
-# Analysis of age-related hearing impairment in white European participants of the UK Biobank
+# Analysis of age-related hearing loss in white-European participants of the UK Biobank
 
-This repository contains notebooks and scripts for reproducing analyses and figures from the paper Rare variant association analysis of UK Biobank exome sequence data reveals new age-related hearing impairment genes, 2022.
+This repository contains notebooks and scripts for reproducing analyses and figures from the paper Rare-variant association analysis of age-related hearing loss reveals known and new hearing loss genes, 2022.
 
 **Requirements**
 
